@@ -1,0 +1,26 @@
+.xxx {
+    position: absolute;
+    left: 0;
+    top: 80px;
+    bottom: 30px;
+    width: 100%;
+    background-color: #fff;
+}
+
+.filter {
+    position: relative;
+    z-index: 1000;
+    background-color: #ccc;
+    margin: 10px;
+}
+
+.filter .mui-table-vies-cell {
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.filter span {
+    font-size: 14px;
+}

@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+.mui-content {
+    background-color: #fff;
+}
+
+.my-header.mui-bar-nav {
+    background-color: #006699;
+}
+
+.my-header .mui-title {
+    color: #fff;
+}
+
+.my-footer.mui-bar-tab {
+    background-color: #006699;
+}
+
+.my-footer .mui-tab-item {
+    color: #fff;
+}
+
+.my-footer .mui-tab-item.mui-active {
+    color: darkorange;
+}
+
+.nav-links {
+    padding: 10px;
+}
+
+.nav-links a {
+    float: left;
+    width: 33.33%;
+}
+
+.nav-links a img {
+    width: 100%;
+    vertical-align: top;
+}
+
+.brand {
+    padding: 10px;
+}
+
+.brand ul {
+    padding: 10px 0;
+}
+
+.brand ul li {
+    float: left;
+    width: 25%;
+}
+
+.brand .title {
+    width: 100%;
+}
+
+.brand ul li a {
+    display: block;
+}
+
+.brand ul li img {
+    display: block;
+    width: 100%;
+}
+
+.product img {
+    width: 100%;
+    display: block;
+}
+
+.product ul {
+    padding: 10px;
+}
+
+.product ul li {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+
+.product ul li a {
+    display: block;
+    padding: 10px;
+    box-shadow: 0 0 5px #ccc;
+}
+
+.product ul li .name {
+    display: block;
+    padding: 5px;
+    text-align: center;
+    height: 44px;
+    font-size: 14px;
+    color: #8f8f94;
+    overflow: hidden;
+}
+
+.product ul li a p {
+    font-size: 12px;
+    text-align: center;
+}
+
+.product ul li a p span {
+    color: #f30;
+    margin-right: 2px;
+}
+
+.product ul li a p del {
+    color: #ccc;
+    margin-left: 2px;
+}
+
+.product ul li a .buy-now {
+    display: block;
+    background-color: #069;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+    border: none;
+}

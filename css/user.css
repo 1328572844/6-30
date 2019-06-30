@@ -1,0 +1,11 @@
+body {
+    background-color: #fff;
+}
+
+.mui-content>.mui-table-view:first-child {
+    margin: 0;
+}
+
+.mui-table-view-cell {
+    font-size: 14px
+}

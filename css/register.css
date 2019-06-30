@@ -1,0 +1,37 @@
+body {
+    background-color: #fff;
+}
+
+.mui-input-row.login-button {
+    padding: 0 10px;
+    height: 50px;
+}
+
+.mui-input-row.login-button:after {
+    display: none;
+}
+
+.mui-btn-primary.mui-btn {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.mui-input-row {
+    font-size: 14px;
+}
+
+.getCode {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    color: #069;
+    padding-right: 10px;
+}
+
+.register {
+    display: block;
+    margin-top: 10px;
+    text-align: right;
+    font-size: 14px;
+    padding-right: 10px;
+}

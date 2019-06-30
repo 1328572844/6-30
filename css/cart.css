@@ -1,0 +1,33 @@
+body {
+    background-color: #fff;
+}
+
+.mui-media-body {
+    font-size: 14px;
+    color: #999;
+}
+
+.mui-table-view-cell>a:not(.mui-btn) {
+    white-space: normal;
+}
+
+.mui-table-view .mui-media-body span {
+    color: red;
+    font-size: 16px;
+}
+
+.mui-table-view .mui-media-body .two {
+    color: #000;
+    font-size: 14px;
+}
+
+.data-size span {
+    display: inline-block;
+    margin: 5px;
+    padding: 4px;
+    border: 1px solid #ccc;
+}
+
+.active {
+    background-color: pink;
+}

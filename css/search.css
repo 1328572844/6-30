@@ -1,0 +1,40 @@
+.container {
+    padding: 10px;
+}
+
+.search {
+    position: relative;
+    width: 100%;
+    height: 30px;
+    border: 1px solid #069;
+    margin-bottom: 20px;
+}
+
+.search input {
+    height: 28px;
+    border: none;
+    font-size: 14px;
+    padding: 0 70px 0;
+}
+
+.search button {
+    position: absolute;
+    width: 60px;
+    height: 28px;
+    top: 0;
+    right: 0;
+    background-color: #069;
+    color: #fff;
+    border: none;
+    border-radius: 0;
+}
+
+.hisyory-top {
+    margin-bottom: 10px;
+}
+
+.hisyory-top .title,
+.clear {
+    font-size: 14px;
+    line-height: normal;
+}

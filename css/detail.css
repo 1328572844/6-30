@@ -1,0 +1,70 @@
+body {
+    background-color: #fff;
+}
+
+.mui-slider-item .mui-slider-item-duplicate img {
+    width: 375px;
+    height: 375px;
+}
+
+.detail-title {
+    padding: 10px;
+}
+
+.detail-price {
+    padding: 10px;
+    font-size: 14px;
+}
+
+.detail-price span {
+    font-size: 24px;
+    color: red;
+}
+
+.detail-price del {
+    color: #999;
+}
+
+.detail-size span {
+    display: inline-block;
+    margin: 5px;
+    padding: 4px;
+    border: 1px solid #ccc;
+}
+
+.cart {
+    margin-top: 10px;
+    height: 40px;
+}
+
+.cart a {
+    display: block;
+    color: #fff;
+}
+
+.cart .red {
+    float: left;
+    background-color: red;
+    width: 50%;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border: 1px solid #000;
+    font-size: 14px;
+}
+
+.cart .pink {
+    margin-left: -1px;
+    float: left;
+    background-color: pink;
+    width: 50%;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border: 1px solid #000;
+    font-size: 14px;
+}
+
+.active {
+    background-color: pink;
+}
